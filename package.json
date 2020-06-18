@@ -2,6 +2,10 @@
   "name": "library-inventory",
   "description": "",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tijmenvangurp/library-inventory"
+  },
   "engines": {
     "sketch": ">=49.0"
   },
