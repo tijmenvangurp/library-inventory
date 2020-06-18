@@ -1,4 +1,5 @@
-# library-inventory
+# Library inventory
+List all symbols that a selected document is using from an external library
 
 ## Installation
 
