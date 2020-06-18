@@ -1,6 +1,6 @@
 {
   "name": "library-inventory",
-  "description": "",
+  "description": "List all symbols that a selected document is using from an external library",
   "version": "0.1.0",
   "repository": {
     "type": "git",
