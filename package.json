@@ -1,7 +1,7 @@
 {
   "name": "library-inventory",
   "description": "List all symbols that a selected document is using from an external library",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/tijmenvangurp/library-inventory"
